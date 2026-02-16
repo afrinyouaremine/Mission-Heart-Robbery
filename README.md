@@ -189,7 +189,6 @@ button:hover{ transform:scale(1.07); }
     <p style="text-align:left">
 First of all, please don’t freak out..
 Nobody’s proposing… yet. Relax. 😌
-
 Honestly, I don’t know how or when it happened,
 but somewhere along the way,
 you quietly became important to me.
