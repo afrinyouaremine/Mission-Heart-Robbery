@@ -268,9 +268,8 @@ Ohg…</p>
     <p style="text-align:left">
 <div class="letter">
 
-<h1>Afrin,</h1>
 
-<p>By now, I’m sure you almost know it’s me.<br>
+<p>Afrin... By now, I’m sure you almost know it’s me.<br>
 But I’m just hoping I still have some mystery left.</p>
 
 <p>Relax.<br>
@@ -358,7 +357,7 @@ If it doesn’t, I’ll step back like a gentleman exiting a room — smooth and
 
 <div class="signature">
 <p>Someone who cares<br>
-and knows exactly what he’s doing. 💖</p>
+and knows exactly what he’s doing... 💖</p>
 </div>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>THE REAL LOVE STORY</title>
