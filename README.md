@@ -253,75 +253,79 @@ GUR 'LRX' BS ZL URNEG VF LBH.
   <div class="card">
     <h2> DECODE MY HEART IF YOU CAN </h2>
     <p style="text-align:left">
-Afrin..
-By now, I’m 87% sure you know it’s me.
-The other 13% is just me hoping I still have some mystery left.
-Relax.
-No dramatic background score.
-No slow-motion walking scene.
-No pigeons flying in the background.
-Just me and honesty.
-I didn’t want to stay quiet anymore.
-Not because I’m impatient.
-Not because I expect anything.
-But because pretending I don’t feel something is honestly too much hard work.
-This isn’t pressure.
-This isn’t a demand.
-This is just me admitting that something has been quietly living in my heart rent-free for a while now.
-Somewhere between random conversations and “just another normal day,” you became not-so-normal to me.
-No fireworks.
-No Bollywood climax.
-More like background music slowly increasing in volume until I realised,
-“Wait… how did she become my favourite dream?”
-Maybe it’s your smile.
-Maybe it’s your energy.
-Maybe it’s that dangerous combo of softness and attitude you carry like it’s licensed and registered.
-And yes, we need to revisit that legendary dialogue.
-“Who the hell are you…?”
-First of all, Oscar-level iconic delivery.
-Confidence level 100.
-Emotional damage manageable.
-I wasn’t offended.
-I was impressed. Slightly attacked. But impressed.
-Your words stick, and not everyone’s do.
-There were moments I got confused too.
-Unread messages.
-Missed calls.
-Distance that felt heavier than it logically should have been.
-Even small things, like not being allowed to keep your photo, felt like my dramatic brain had just been denied a government approval stamp.
-And here’s the funniest part.
-While writing this, even AI asked me,
-“Bro… are you sure she likes you?”
-Imagine.
-Even artificial intelligence questioning my natural intelligence.
-But here’s the difference.
-AI reads patterns.
-I read vibes.
-And my vibe is still choosing you. Calmly. Confidently. Slightly stubbornly.
-I’m not writing this so you panic call me.
-Please don’t suddenly ring me like it’s an emergency meeting.
-I’m not writing this expecting a reply.
-No pressure, no deadline, not even an emotional EMI.
-I’m writing this because I respect you enough to be honest.
-And I respect myself enough not to beg.
-If one day you look at me differently,
-I’ll be there. Properly. Not half-hearted.
-If not,
-I’ll still wish you happiness from a safe, slightly dramatic but very dignified distance.
-I don’t want special treatment.
-I don’t want VIP access.
-I just wanted you to know that someone sees you.
-The emotional you.
-The strong you.
-The confusing you.
-The “who the hell are you” you.
-And still says,
-“Yeah… I like her. No software update needed.”
-If my presence ever feels safe to you, I’ll protect that space.
-If it doesn’t, I’ll step back like a gentleman exiting a room, smooth and calm, no door slamming.
-Just sincerity.
-Someone who cares
-and knows exactly what he’s doing. 💖 🤍
+Iznzv    Jf ugi  Q’f 95% ypxh  qbt   htvw qm’z tp
+ Znb gkzpd 20% mv qgzw   fp kqvzqk y  mgtye ykpx  mzkgjzi vnfo
+Zmxmt   Vb  nxcqlmxb oijbqvxja   fvxgp   Wt mxyr  ptkzgd sxtxrt kptz
+Do  xnhmrm xdjtvq   lv wmg qlqgqkmga   Rlzv ke cwp klawglq
+X jxkpz’v yqag ml  xnbg ovfpfsk  Pbv jxktgmx v’t qqxfqkq
+Mhz fpkjzpvxwqk  Q etr’t  ltxx ltxvqxqg  zc pkwlzxfu jwzi qrlv ngzv egku aqy
+
+Kfqt ewx’v dvzwkv   Kfqt ewx’v q rzvgmz
+Kfqt gv xozv qk pky  hziwxxzlv xqzg uwfxivpk lqv yziqrru pdkqvv xv uzg pmdzj nvvo ndkk lvv z zkflqp spq
+
+Wcgtjmxwq ztvflqq qzbmwfxqv ykz rfrq  plkzgp mbv lzj  ixx ntvzbq pb vf rzjzgp zb ke
+Xq kjbtlxpv   Qv Fpqffddg dztbxr
+Znbp gvgq mkzzizvj zt ykgmzv mvlqmv xqqtivp ykzkqzkaz yl dbxpz uxq Q ivkzdg
+Rtrg cwtg jqi ezc vzxzbv xl xkkzx
+
+Kqzdkx zk’v a wqvqv   Kqzdkx zk’v a pzxzxv
+Kqzdkx zk’v zc pvbvzmckq rjzz vmtki ptk eikxkvt lqv qkkzjlwm
+Kzzv iak r vkkw cz mgzitl xkzz jqtqeqw
+
+Vlc qkw ktqq uzr xl pzb
+Bqgvi xk zlq  Ckvtv lmzvp xptvzp fvvkzpv
+Gmzbnplqqv fzzp 100
+Ocdtvmt kzlkgkz yqgqzwx
+
+Q xjkz’v gqqzzxgv   Q xjkz’v vzqgkkzkv
+Znb ztkzv zvzbb zc vqx wjjvqxzz’v qb
+Znpzp zkzx zkqgmxqp Q svk jvpzxkqzz zbz
+
+Ovkzpzj fvkzkv   Nvxzpk zwpl
+Cwkzxpkc vmtki cwtv zqgptzv zbzqv pkmzqevl kfwvxb jvvfxl ptkiv
+Zvxv uvczz qkgqzkv  zvpzk vqx zvvxfqvv zb klzzp gzgzq
+
+Kzzv iak’z zbz rkbkzvpv jzkt
+Cwtgz mkzzizvj zbz vqx YQ ivkzzp zz
+Fvg cwtg jqi zvv zlz zkpzx
+
+Pkkzv   Zvxv zvxtqq xptvvp kzzivzg xgzzmkvv zxtqqv
+Mhz cwtg’z zbz mkzvpzvv
+
+YQ xvzqv ztkzkv   Q xvzqv kzktv
+Kzzv kzktv zk vqxvv jzzmzpv
+
+Lztvkz   Gmzbnplqqv   Nkptzzg zmwkkzz
+
+Q’z zbz mkzzizvj zbz qk zpv jzgvj kzz zv
+Pbvzkk zbz’z xqvzpvzxv zkkzgv xptvzp zv vqxvv’z zv rxtxvzpv rzzgv
+
+Q’z zbz mkzzizvj zbz xgvzvvpv r kvkzv
+Zb xkzvvpz zb kzvzxv zbz zvvzzv qk xgzvvv zpq
+
+Q’z mkzzizvj zbz fzqgzz Q xvzqv zgz zkpzxk jz tkkzzt
+Kzzv Q xvzqv zpkzzv zgz zktzzt zz kzzv
+
+Gm fzv jxq zbz kggz jvkz zmwkkzzl
+Q’z yz zbzv   Yzkzkzv   Zb zbvv hzvzkzv
+
+Gm zb   Q’z zkzz wzpk zbz zzzvzpzz zmwzzl qk z qzvz zkzpkzzqzv ztq zzzv wzzkz
+
+Q xjkz’v kzzmzv zzzxpvzzv
+Q xjkz’v YNP zzzvzz
+Q zxpz zkkz zbz zvzv zzkzzv zbz
+
+Zb ztkzzv zbz   Zb zvzpg zbz
+Zb kzzzkz zbz   Zb vlc qkw ktqq uzr zbz
+
+Kzzv kzz zzzv
+Jzz Q ltkv zvz Zb zpvzvzzv zzzvzz vzzzzv
+
+Gm kzzv xvzv zzzv vzzzzv zzxv zvz zbz Q’z zvkzvkzzv zbz xzkv
+Gm zbz xzzzz’v Q’z ztkz ztq zbz zmwkkzzl xzvzzv xzvzxk gzzxv zzzvzzk zbz kzzxv
+
+Zb xzzv zzzzzxv   Rzzv zzzvzzzz
+Kzzv xkzzqv zzxv zvz zzzzzkzzq zbz’v zzkzv
     </p>
     <button onclick="nextPage(8)">DECODE HINT</button>
     <button onclick="nextPage(5)">Back</button>
