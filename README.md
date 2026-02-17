@@ -187,17 +187,17 @@ button:hover{ transform:scale(1.07); }
   <div class="card">
     <h2>Hi Afrin…</h2>
     <p style="text-align:left">
-<p>First of all… relax. Don’t freak out. Nobody’s proposing — at least not today. 😌</p>
+<p>First of all… please... Don’t freak out. Nobody’s proposing  at least not now.. 😌</p>
 
 <p>I honestly don’t know when it happened or how it happened… but somewhere along the way, you quietly became important to me.</p>
 
-<p>So this? This is just a small gift. Nothing heavy. Nothing dramatic. I just wanted to show you how I feel. Please accept it… (and let’s be honest, you don’t really have another option 😉).</p>
+<p>So this? This is just a small gift. Nothing heavy. Nothing dramatic. Ah.. okey sorry little dramatic I just wanted to show you how I feel. Please accept it… (and let’s be honest, you don’t really have another option 😉).</p>
 
 <p>I’m not expecting anything in return. No special treatment. No privileges. Not even a change in the way you see me.</p>
 
 <p>I just wanted to make you smile. That’s it.</p>
 
-<p>And trust me… if you were ever mine, I’d protect that smile at any cost — until my very last breath.</p>
+<p>And trust me… if you were ever mine, I’d protect that smile at any cost until my last breath.</p>
 
 <p>And if you’re still wondering who I am…</p>
 
@@ -250,81 +250,22 @@ GUR 'LRX' BS ZL URNEG VF LBH.
 <!-- PAGE 7 -->
 <div id="page7" class="page">
   <div class="card">
-    <h2> DECODE MY HEART IF YOU CAN </h2>
+    <h2> MY DECODED HEART </h2>
     <p style="text-align:left">
-Iznzv    Jf ugi  Q’f 95% ypxh  qbt   htvw qm’z tp
- Znb gkzpd 20% mv qgzw   fp kqvzqk y  mgtye ykpx  mzkgjzi vnfo
-Zmxmt   Vb  nxcqlmxb oijbqvxja   fvxgp   Wt mxyr  ptkzgd sxtxrt kptz
-Do  xnhmrm xdjtvq   lv wmg qlqgqkmga   Rlzv ke cwp klawglq
-X jxkpz’v yqag ml  xnbg ovfpfsk  Pbv jxktgmx v’t qqxfqkq
-Mhz fpkjzpvxwqk  Q etr’t  ltxx ltxvqxqg  zc pkwlzxfu jwzi qrlv ngzv egku aqy
+j kh lhhh hj
 
-Kfqt ewx’v dvzwkv   Kfqt ewx’v q rzvgmz
-Kfqt gv xozv qk pky  hziwxxzlv xqzg uwfxivpk lqv yziqrru pdkqvv xv uzg pmdzj nvvo ndkk lvv z zkflqp spq
+kgxykxkycu
+c
 
-Wcgtjmxwq ztvflqq qzbmwfxqv ykz rfrq  plkzgp mbv lzj  ixx ntvzbq pb vf rzjzgp zb ke
-Xq kjbtlxpv   Qv Fpqffddg dztbxr
-Znbp gvgq mkzzizvj zt ykgmzv mvlqmv xqqtivp ykzkqzkaz yl dbxpz uxq Q ivkzdg
-Rtrg cwtg jqi ezc vzxzbv xl xkkzx
 
-Kqzdkx zk’v a wqvqv   Kqzdkx zk’v a pzxzxv
-Kqzdkx zk’v zc pvbvzmckq rjzz vmtki ptk eikxkvt lqv qkkzjlwm
-Kzzv iak r vkkw cz mgzitl xkzz jqtqeqw
 
-Vlc qkw ktqq uzr xl pzb
-Bqgvi xk zlq  Ckvtv lmzvp xptvzp fvvkzpv
-Gmzbnplqqv fzzp 100
-Ocdtvmt kzlkgkz yqgqzwx
+jgziyxkyc
+ucu
 
-Q xjkz’v gqqzzxgv   Q xjkz’v vzqgkkzkv
-Znb ztkzv zvzbb zc vqx wjjvqxzz’v qb
-Znpzp zkzx zkqgmxqp Q svk jvpzxkqzz zbz
 
-Ovkzpzj fvkzkv   Nvxzpk zwpl
-Cwkzxpkc vmtki cwtv zqgptzv zbzqv pkmzqevl kfwvxb jvvfxl ptkiv
-Zvxv uvczz qkgqzkv  zvpzk vqx zvvxfqvv zb klzzp gzgzq
 
-Kzzv iak’z zbz rkbkzvpv jzkt
-Cwtgz mkzzizvj zbz vqx YQ ivkzzp zz
-Fvg cwtg jqi zvv zlz zkpzx
-
-Pkkzv   Zvxv zvxtqq xptvvp kzzivzg xgzzmkvv zxtqqv
-Mhz cwtg’z zbz mkzvpzvv
-
-YQ xvzqv ztkzkv   Q xvzqv kzktv
-Kzzv kzktv zk vqxvv jzzmzpv
-
-Lztvkz   Gmzbnplqqv   Nkptzzg zmwkkzz
-
-Q’z zbz mkzzizvj zbz qk zpv jzgvj kzz zv
-Pbvzkk zbz’z xqvzpvzxv zkkzgv xptvzp zv vqxvv’z zv rxtxvzpv rzzgv
-
-Q’z zbz mkzzizvj zbz xgvzvvpv r kvkzv
-Zb xkzvvpz zb kzvzxv zbz zvvzzv qk xgzvvv zpq
-
-Q’z mkzzizvj zbz fzqgzz Q xvzqv zgz zkpzxk jz tkkzzt
-Kzzv Q xvzqv zpkzzv zgz zktzzt zz kzzv
-
-Gm fzv jxq zbz kggz jvkz zmwkkzzl
-Q’z yz zbzv   Yzkzkzv   Zb zbvv hzvzkzv
-
-Gm zb   Q’z zkzz wzpk zbz zzzvzpzz zmwzzl qk z qzvz zkzpkzzqzv ztq zzzv wzzkz
-
-Q xjkz’v kzzmzv zzzxpvzzv
-Q xjkz’v YNP zzzvzz
-Q zxpz zkkz zbz zvzv zzkzzv zbz
-
-Zb ztkzzv zbz   Zb zvzpg zbz
-Zb kzzzkz zbz   Zb vlc qkw ktqq uzr zbz
-
-Kzzv kzz zzzv
-Jzz Q ltkv zvz Zb zpvzvzzv zzzvzz vzzzzv
-
-Gm kzzv xvzv zzzv vzzzzv zzxv zvz zbz Q’z zvkzvkzzv zbz xzkv
-Gm zbz xzzzz’v Q’z ztkz ztq zbz zmwkkzzl xzvzzv xzvzxk gzzxv zzzvzzk zbz kzzxv
-
-Zb xzzv zzzzzxv   Rzzv zzzvzzzz
-Kzzv xkzzqv zzxv zvz zzzzzkzzq zbz’v zzkzv
+utxykcmyjc
+jgxiyckycj
     </p>
     <button onclick="nextPage(8)">DECODE HINT</button>
     <button onclick="nextPage(5)">Back</button>
