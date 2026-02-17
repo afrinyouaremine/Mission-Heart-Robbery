@@ -254,7 +254,6 @@ GUR 'LRX' BS ZL URNEG VF LBH.
     <h2> DECODE MY HEART IF YOU CAN </h2>
     <p style="text-align:left">
 Afrin..
-Afrin,
 By now, I’m 87% sure you know it’s me.
 The other 13% is just me hoping I still have some mystery left.
 Relax.
