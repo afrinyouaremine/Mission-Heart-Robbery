@@ -187,22 +187,21 @@ button:hover{ transform:scale(1.07); }
   <div class="card">
     <h2>Hi Afrin…</h2>
     <p style="text-align:left">
-First of all, please don’t freak out..
-Nobody’s proposing… yet. Relax. 😌
-Honestly, I don’t know how or when it happened,
-but somewhere along the way,
-you quietly became important to me.
-So I wanted to show you how I feel.
-This is just a small gift for you… please accept it.
-(In fact, you don’t really have another option 😉)
-I don’t expect anything in return not special treatment,
-not privileges, not even a change in the way you see me.
-I just wanted to make you smile. That’s all. And trust me…
+<p>First of all… relax. Don’t freak out. Nobody’s proposing — at least not today. 😌</p>
 
-if you were ever mine,I would protect that smile at any cost
-until my very last breath.
-And if you really want to know who I am…
-tap to continue.
+<p>I honestly don’t know when it happened or how it happened… but somewhere along the way, you quietly became important to me.</p>
+
+<p>So this? This is just a small gift. Nothing heavy. Nothing dramatic. I just wanted to show you how I feel. Please accept it… (and let’s be honest, you don’t really have another option 😉).</p>
+
+<p>I’m not expecting anything in return. No special treatment. No privileges. Not even a change in the way you see me.</p>
+
+<p>I just wanted to make you smile. That’s it.</p>
+
+<p>And trust me… if you were ever mine, I’d protect that smile at any cost — until my very last breath.</p>
+
+<p>And if you’re still wondering who I am…</p>
+
+<p><strong>Tap to continue.</strong></p>
     </p>
     <button onclick="nextPage(5)">Continue</button>
     <button onclick="nextPage(3)">Back</button>
