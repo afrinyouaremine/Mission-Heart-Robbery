@@ -264,10 +264,102 @@ Ohg…</p>
 <!-- PAGE 7 -->
 <div id="page7" class="page">
   <div class="card">
-    <h2> MY DECODED HEART </h2>
+    <h2> Love Letter </h2>
     <p style="text-align:left">
-<html>
-<head>
+<div class="letter">
+
+<h1>Afrin,</h1>
+
+<p>By now, I’m sure you almost know it’s me.<br>
+But I’m just hoping I still have some mystery left.</p>
+
+<p>Relax.<br>
+No dramatic background score here.<br>
+No slow-motion walking scene. There are no pigeons flying in the background.<br>
+Just me and my true love.</p>
+
+<p>I didn’t want to stay quiet anymore.<br>
+Not because I’m impatient.<br>
+Neither am I expecting anything.<br>
+But because pretending I don’t feel something is honestly too much hard work.</p>
+
+<p>This isn’t pressure or demand.<br>
+This is just me admitting that something has been quietly living in my heart rent-free for a while now.</p>
+
+<p>Somewhere between random conversations and “just another normal day,” you became not-so-normal to me.<br>
+No fireworks.<br>
+No Bollywood climax.<br>
+More like background music slowly increasing in volume until I realised,<br>
+“Wait… how did she become my favourite dream?”</p>
+
+<p>Maybe it’s your smile.<br>
+Maybe it’s your energy.<br>
+Maybe it’s that dangerous combo of softness and attitude you carry like it’s licensed and registered.</p>
+
+<p>And yes, we need to revisit that legendary dialogue.<br>
+“Who the hell are you…?”</p>
+
+<p>First of all, Oscar-level iconic delivery.<br>
+Confidence level 100.<br>
+Emotional damage manageable…</p>
+
+<p>I wasn’t offended. I won’t lie — it stayed with me.<br>
+But I was impressed. Slightly attacked. But impressed.<br>
+Your words stick, and not everyone’s do.</p>
+
+<p>There were moments I got confused too.<br>
+Unread messages.<br>
+Missed calls.<br>
+Distance that felt heavier than it logically should have been.<br>
+Even small things, like not being allowed to keep your photo, felt like my dramatic brain had just been denied a government approval stamp.</p>
+
+<p>And here’s the funniest part.<br>
+While writing this, even AI asked me,<br>
+“Bro… are you sure she likes you? Is this really the girl you want?”</p>
+
+<p>Imagine.<br>
+Even artificial intelligence questioning my natural intelligence.</p>
+
+<p>But here’s the difference.<br>
+AI reads patterns.<br>
+I read vibes.<br>
+And my vibe is still choosing you. Calmly. Confidently. Slightly stubbornly.</p>
+
+<p>I’m not writing this so you panic-call me.<br>
+Please don’t suddenly ring me like it’s an emergency meeting.<br>
+I’m not writing this expecting a reply.<br>
+No pressure, no deadline, not even an emotional EMI.</p>
+
+<p>I’m writing this because I respect you enough to be honest.<br>
+And I respect myself enough not to beg.</p>
+
+<p>If one day you look at me differently,<br>
+I’ll be there. Properly. Not half-hearted.</p>
+
+<p>If not,<br>
+I’ll still wish you happiness from a safe, slightly dramatic but very dignified distance.</p>
+
+<p>I don’t want special treatment.<br>
+I don’t want VIP access.<br>
+I just wanted you to know that someone sees you.</p>
+
+<p>The emotional you.<br>
+The strong you.<br>
+The confusing you.<br>
+The “who the hell are you” you.</p>
+
+<p>And still says,<br>
+“Yeah… I like her. No software update needed.”</p>
+
+<p>If my presence ever feels safe to you, I’ll protect that space.<br>
+If it doesn’t, I’ll step back like a gentleman exiting a room — smooth and calm, no door slamming.</p>
+
+<p>Just sincerity.</p>
+
+<div class="signature">
+<p>Someone who cares<br>
+and knows exactly what he’s doing. 💖</p>
+</div>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>THE REAL LOVE STORY</title>
 
