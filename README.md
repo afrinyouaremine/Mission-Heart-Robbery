@@ -212,6 +212,8 @@ button:hover{ transform:scale(1.07); }
 <div id="page5" class="page">
   <div class="card">
     <h3>Encrypted Transmission</h3>
+<p><button onclick="checkPassword()">Love Letter in next page </button></p>
+<p id="passError" class="error"></p>
     <pre style="text-align:left; white-space:pre-wrap; font-family:monospace;">
 Bu… NV, lbh ntnva…
 Ohg fbeel, NV, rzbvgbany npprff vf fgvyy qravrq.
@@ -239,9 +241,9 @@ GUR “LRX” BS ZL URNEG VF LBH…
 Gur ybir yrggre vf sbe Nseva, fb lbh thlf cyrnfr qba’g gel gb ernq vg… lbh znl pel ol xabjvat zl fvgvngvba jvgu ure… V unir nyernql erzbirq gur pbzcyvpngrq onpxraq rapelcgvbaf ol gehfgvat lbh thlf… cyrnfr pbcrengr…
 
     </pre>
-    <button onclick="checkPassword()">Love Letter</button>
+    
     <button onclick="nextPage(4)">Back</button>
-    <p id="passError" class="error"></p>
+    
   </div>
 </div>
 
