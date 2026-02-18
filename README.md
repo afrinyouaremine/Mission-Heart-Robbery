@@ -253,9 +253,10 @@ Gur ybir yrggre vf sbe Nseva, fb lbh thlf cyrnfr qba’g gel gb ernq vg… lbh z
     <h2> Yeah.. this is the letter.. </h2>
     <p style="text-align:left">
 <p> Afrin... By now, I’m sure you almost know it’s me.<br>
-But I’m just hoping I still have some mystery left.</p>
+But I’m just hoping I still have some mystery left...
+This is something i have never done before even in my college life...</p>
 
-<p>Relax.<br>
+<p>Relax.<br> It may looks cringe.. but..
 No dramatic background score here.<br>
 No slow-motion walking scene. There are no pigeons flying in the background.<br>
 Just me and my true lub.</p>
