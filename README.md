@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -59,11 +58,8 @@ a:hover{
 
 <body>
 
-<h1>Mission two loading...</h1>
-<p>Imotions deploying to production</p>
-
 <a href="https://afrinyouaremine.github.io/herewebegin/">
-    Proceed to Mission
+    Proceed to Next Mission
 </a>
 
 </body>
