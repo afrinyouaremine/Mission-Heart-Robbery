@@ -1,9 +1,8 @@
-
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mission Two | Deployment Console</title>
+<title>MISSION-2 | Secure Deployment</title>
 
 <style>
 *{
@@ -13,13 +12,13 @@
 }
 
 body{
-    background:black;
+    background:#000;
     font-family: "Courier New", monospace;
-    color:#00ff00;
+    color:#00ff41;
     overflow:hidden;
 }
 
-/* Matrix Canvas */
+/* Matrix Background */
 canvas{
     position:fixed;
     top:0;
@@ -27,25 +26,35 @@ canvas{
     z-index:-1;
 }
 
-/* Terminal Window */
-.container{
+/* Terminal Full Screen */
+.terminal{
     position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%,-50%);
-    width:90%;
-    max-width:650px;
-    padding:30px;
-    background:rgba(0,0,0,0.8);
-    border:1px solid #00ff00;
-    box-shadow:0 0 25px #00ff00;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    padding:40px;
+    text-shadow:0 0 8px #00ff41;
+}
+
+/* Glitch Title */
+.glitch{
+    font-size:24px;
+    margin-bottom:20px;
+    animation: flicker 1.5s infinite alternate;
+}
+
+@keyframes flicker{
+    0%{opacity:1;}
+    50%{opacity:0.8;}
+    100%{opacity:1;}
 }
 
 /* Blinking Cursor */
 .cursor{
     display:inline-block;
     width:10px;
-    background:#00ff00;
+    background:#00ff41;
     margin-left:5px;
     animation:blink 1s infinite;
 }
@@ -58,18 +67,18 @@ canvas{
 /* Button */
 a{
     display:inline-block;
-    margin-top:25px;
-    padding:12px 25px;
+    margin-top:30px;
+    padding:10px 20px;
+    border:1px solid #00ff41;
+    color:#00ff41;
     text-decoration:none;
-    border:1px solid #00ff00;
-    color:#00ff00;
     transition:0.3s;
 }
 
 a:hover{
-    background:#00ff00;
-    color:black;
-    box-shadow:0 0 15px #00ff00;
+    background:#00ff41;
+    color:#000;
+    box-shadow:0 0 20px #00ff41;
 }
 </style>
 </head>
@@ -78,34 +87,34 @@ a:hover{
 
 <canvas id="matrix"></canvas>
 
-<div class="container">
-<pre id="terminal"></pre>
+<div class="terminal">
+<div class="glitch">MISSION-2 : IMOTIONS DEPLOYING TO PRODUCTION</div>
+<pre id="output"></pre>
 <a href="https://afrinyouaremine.github.io/herewebegin/">
-ENTER PRODUCTION SERVER
+ACCESS PRODUCTION SERVER
 </a>
 </div>
 
 <script>
-// Matrix Background
+// Matrix Effect
 const canvas = document.getElementById("matrix");
 const ctx = canvas.getContext("2d");
 
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 
-const letters = "01IMOTIONSDEPLOYINGPRODUCTION";
-const fontSize = 14;
+const letters = "01IMOTIONSDEPLOYMENT";
+const fontSize = 16;
 const columns = canvas.width/fontSize;
 const drops = [];
 
-for(let x=0;x<columns;x++)
-    drops[x]=1;
+for(let x=0;x<columns;x++) drops[x]=1;
 
 function draw(){
-    ctx.fillStyle="rgba(0,0,0,0.05)";
+    ctx.fillStyle="rgba(0,0,0,0.07)";
     ctx.fillRect(0,0,canvas.width,canvas.height);
 
-    ctx.fillStyle="#00ff00";
+    ctx.fillStyle="#00ff41";
     ctx.font=fontSize+"px monospace";
 
     for(let i=0;i<drops.length;i++){
@@ -118,31 +127,44 @@ function draw(){
         drops[i]++;
     }
 }
-setInterval(draw,33);
+setInterval(draw,35);
 
 
-// Typewriter Effect
-const text = `
-> Initializing Mission-2...
-> Establishing secure emotional channel...
-> Compiling feelings.exe
-> Verifying trust protocol...
-> Deploying Imotions to Production...
-> Status: SUCCESS
-> Heartbeat synchronized.
-`;
+// Typewriter Deployment Log
+const lines = [
+"> Booting secure environment...",
+"> Bypassing emotional firewall...",
+"> Injecting feelings.dll...",
+"> Compiling heart_protocol...",
+"> Deploying Imotions to Production...",
+"> Status: DEPLOYMENT SUCCESSFUL",
+"> Connection Established.",
+"> Awaiting User Response..."
+];
 
-let i = 0;
-function typeWriter(){
-    if(i < text.length){
-        document.getElementById("terminal").innerHTML += text.charAt(i);
-        i++;
-        setTimeout(typeWriter, 35);
+let index = 0;
+let char = 0;
+const speed = 30;
+const output = document.getElementById("output");
+
+function type(){
+    if(index < lines.length){
+        if(char < lines[index].length){
+            output.innerHTML += lines[index].charAt(char);
+            char++;
+            setTimeout(type, speed);
+        }else{
+            output.innerHTML += "\n";
+            index++;
+            char = 0;
+            setTimeout(type, 200);
+        }
     }else{
-        document.getElementById("terminal").innerHTML += "<span class='cursor'></span>";
+        output.innerHTML += "<span class='cursor'></span>";
     }
 }
-typeWriter();
+
+type();
 
 </script>
 
