@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MISSION-2 | Deployment Console</title>
+<title>MISSION-2 | Boss Console</title>
 
 <style>
 *{
@@ -14,7 +14,6 @@
 body{
     background:#000;
     font-family:"Courier New", monospace;
-    color:#00ff41;
     overflow:hidden;
 }
 
@@ -26,49 +25,73 @@ canvas{
     z-index:-1;
 }
 
-/* Terminal Overlay */
-.terminal{
+/* Dark Overlay */
+.overlay{
     position:absolute;
     top:0;
     left:0;
     width:100%;
     height:100%;
-    padding:40px;
-    background:rgba(0,0,0,0.85);
+    background:rgba(0,0,0,0.92);
+}
+
+/* Main Terminal */
+.terminal{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+    color:#ff0022;
+    text-shadow:0 0 15px #ff0022;
 }
 
 /* Title */
 .title{
-    font-size:24px;
+    font-size:32px;
+    letter-spacing:4px;
+    margin-bottom:20px;
+    animation:flicker 1.5s infinite alternate;
+}
+
+/* Subtext */
+.sub{
+    font-size:18px;
     letter-spacing:2px;
-    margin-bottom:30px;
-    text-shadow:0 0 12px #00ff41;
+}
+
+/* Flicker Effect */
+@keyframes flicker{
+    0%{opacity:1;}
+    50%{opacity:0.8;}
+    100%{opacity:1;}
 }
 
 /* Button */
 a{
     display:inline-block;
     margin-top:40px;
-    padding:12px 28px;
-    border:1px solid #00ff41;
-    color:#00ff41;
+    padding:14px 35px;
+    border:2px solid #ff0022;
+    color:#ff0022;
     text-decoration:none;
+    letter-spacing:2px;
     transition:0.3s;
 }
 
 a:hover{
-    background:#00ff41;
+    background:#ff0022;
     color:#000;
-    box-shadow:0 0 20px #00ff41;
+    box-shadow:0 0 25px #ff0022;
 }
 
 /* Cursor */
 .cursor{
     display:inline-block;
-    width:8px;
-    height:20px;
-    background:#00ff41;
-    margin-left:5px;
+    width:10px;
+    height:22px;
+    background:#ff0022;
+    margin-left:6px;
     animation:blink 1s infinite;
 }
 
@@ -82,35 +105,36 @@ a:hover{
 <body>
 
 <canvas id="matrix"></canvas>
+<div class="overlay"></div>
 
 <div class="terminal">
-<pre id="output"></pre>
-
+<div class="title">MISSION-2</div>
+<div class="sub" id="typing"></div>
 <a href="https://afrinyouaremine.github.io/herewebegin/">
-PROCEED TO NEXT PHASE
+ENTER NEXT PHASE
 </a>
 </div>
 
 <script>
-// Matrix Background
+// MATRIX GREEN BACKGROUND
 const canvas = document.getElementById("matrix");
 const ctx = canvas.getContext("2d");
 
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 
-const letters = "01MISSIONPRODUCTION";
-const fontSize = 14;
+const letters = "01MISSIONBOSSMAFIAHACKER";
+const fontSize = 12;
 const columns = canvas.width/fontSize;
 const drops = [];
 
 for(let x=0;x<columns;x++) drops[x]=1;
 
 function draw(){
-    ctx.fillStyle="rgba(0,0,0,0.15)";
+    ctx.fillStyle="rgba(0,0,0,0.12)";
     ctx.fillRect(0,0,canvas.width,canvas.height);
 
-    ctx.fillStyle="rgba(0,255,65,0.4)";
+    ctx.fillStyle="rgba(0,255,0,0.6)";
     ctx.font=fontSize+"px monospace";
 
     for(let i=0;i<drops.length;i++){
@@ -123,28 +147,26 @@ function draw(){
         drops[i]++;
     }
 }
-setInterval(draw,40);
+setInterval(draw,35);
 
 
-// Typewriter Effect (Mission Only)
-const text = "MISSION-2\nIMOTIONS DEPLOYING TO PRODUCTION...\n\nSTATUS: ACTIVE";
-
+// TYPEWRITER EFFECT
+const text = "IMOTIONS DEPLOYING TO PRODUCTION...";
 let i = 0;
-const speed = 35;
-const output = document.getElementById("output");
+const speed = 40;
+const typing = document.getElementById("typing");
 
-function typeWriter(){
+function type(){
     if(i < text.length){
-        output.innerHTML += text.charAt(i);
+        typing.innerHTML += text.charAt(i);
         i++;
-        setTimeout(typeWriter, speed);
+        setTimeout(type, speed);
     } else {
-        output.innerHTML += "<span class='cursor'></span>";
+        typing.innerHTML += "<span class='cursor'></span>";
     }
 }
 
-typeWriter();
-
+type();
 </script>
 
 </body>
