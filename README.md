@@ -13,12 +13,12 @@
 
 body{
     background:#000;
-    font-family: "Courier New", monospace;
+    font-family:"Courier New", monospace;
     color:#00ff41;
     overflow:hidden;
 }
 
-/* Matrix background */
+/* Matrix Background */
 canvas{
     position:fixed;
     top:0;
@@ -26,7 +26,7 @@ canvas{
     z-index:-1;
 }
 
-/* Dark readable overlay */
+/* Terminal Overlay */
 .terminal{
     position:absolute;
     top:0;
@@ -34,24 +34,22 @@ canvas{
     width:100%;
     height:100%;
     padding:40px;
-    background:rgba(0,0,0,0.85); /* makes text clearly visible */
-    overflow:auto;
+    background:rgba(0,0,0,0.85);
 }
 
 /* Title */
 .title{
-    font-size:22px;
-    margin-bottom:25px;
+    font-size:24px;
     letter-spacing:2px;
-    color:#00ff41;
-    text-shadow:0 0 10px #00ff41;
+    margin-bottom:30px;
+    text-shadow:0 0 12px #00ff41;
 }
 
 /* Button */
 a{
     display:inline-block;
-    margin-top:30px;
-    padding:12px 25px;
+    margin-top:40px;
+    padding:12px 28px;
     border:1px solid #00ff41;
     color:#00ff41;
     text-decoration:none;
@@ -68,10 +66,10 @@ a:hover{
 .cursor{
     display:inline-block;
     width:8px;
-    height:18px;
+    height:20px;
     background:#00ff41;
-    animation:blink 1s infinite;
     margin-left:5px;
+    animation:blink 1s infinite;
 }
 
 @keyframes blink{
@@ -86,7 +84,6 @@ a:hover{
 <canvas id="matrix"></canvas>
 
 <div class="terminal">
-<div class="title">MISSION-2 : IMOTIONS DEPLOYING TO PRODUCTION</div>
 <pre id="output"></pre>
 
 <a href="https://afrinyouaremine.github.io/herewebegin/">
@@ -95,14 +92,14 @@ PROCEED TO NEXT PHASE
 </div>
 
 <script>
-// MATRIX EFFECT (dimmed for readability)
+// Matrix Background
 const canvas = document.getElementById("matrix");
 const ctx = canvas.getContext("2d");
 
 canvas.height = window.innerHeight;
 canvas.width = window.innerWidth;
 
-const letters = "01IMOTIONSPRODUCTION";
+const letters = "01MISSIONPRODUCTION";
 const fontSize = 14;
 const columns = canvas.width/fontSize;
 const drops = [];
@@ -110,10 +107,10 @@ const drops = [];
 for(let x=0;x<columns;x++) drops[x]=1;
 
 function draw(){
-    ctx.fillStyle="rgba(0,0,0,0.15)";  // darker fade for better readability
+    ctx.fillStyle="rgba(0,0,0,0.15)";
     ctx.fillRect(0,0,canvas.width,canvas.height);
 
-    ctx.fillStyle="rgba(0,255,65,0.4)";  // dimmed matrix text
+    ctx.fillStyle="rgba(0,255,65,0.4)";
     ctx.font=fontSize+"px monospace";
 
     for(let i=0;i<drops.length;i++){
@@ -129,40 +126,25 @@ function draw(){
 setInterval(draw,40);
 
 
-// TYPEWRITER DEPLOYMENT LOG (clean & professional)
-const lines = [
-"> Initializing Mission-2...",
-"> Establishing secure production channel...",
-"> Verifying system integrity...",
-"> Compiling modules...",
-"> Deploying Imotions package...",
-"> Syncing runtime environment...",
-"> Deployment Status: SUCCESS",
-"> Ready for Phase-3 execution."
-];
+// Typewriter Effect (Mission Only)
+const text = "MISSION-2\nIMOTIONS DEPLOYING TO PRODUCTION...\n\nSTATUS: ACTIVE";
 
-let index = 0;
-let char = 0;
+let i = 0;
+const speed = 35;
 const output = document.getElementById("output");
 
-function type(){
-    if(index < lines.length){
-        if(char < lines[index].length){
-            output.innerHTML += lines[index].charAt(char);
-            char++;
-            setTimeout(type, 25);
-        } else {
-            output.innerHTML += "\n";
-            index++;
-            char = 0;
-            setTimeout(type, 150);
-        }
+function typeWriter(){
+    if(i < text.length){
+        output.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, speed);
     } else {
         output.innerHTML += "<span class='cursor'></span>";
     }
 }
 
-type();
+typeWriter();
+
 </script>
 
 </body>
