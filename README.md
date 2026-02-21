@@ -313,11 +313,11 @@ function checkName(){
 
 function checkPassword(){
   let entered = prompt("Enter the password");
-  if(entered === "nirfa"){
+  if(entered === "afrin87"){
     nextPage(7);
   } else {
     document.getElementById("passError").innerText =
-      "Plot twist..!! Decode the message first it contains the password hint";
+      "It's your name and two digits between us in common";
   }
 }
 
