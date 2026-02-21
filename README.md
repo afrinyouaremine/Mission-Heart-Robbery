@@ -178,7 +178,7 @@ button:hover{ transform:scale(1.07); }
     <h3>Identity Confirmed…</h3>
     <p> Queen of my heart detected ✨</p>
     <p>Security Level 1: Heart — Unlocked.</p>
-    <button onclick="nextPage(2)">Back</button>
+    
   </div>
 </div>
 
